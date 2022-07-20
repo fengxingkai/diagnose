@@ -1,0 +1,2 @@
+# diagnose
+诊所
